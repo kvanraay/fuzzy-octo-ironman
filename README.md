@@ -4,6 +4,9 @@ Here is a new repository
 * asterisk
 * [ ] asterisk and bracket
 
+1. item 1
+2. item 2
+
 [page 2](page 2)
 
 [page 3](page 3)
